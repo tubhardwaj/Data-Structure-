@@ -13,7 +13,7 @@ int main () {
    avg = getAverage( balance, 5 ) ;
  
    // output the returned value 
-   cout << "Average value is: " << avg << endl; 
+   cout << "Average value is: " << avg << endl;
     
    return 0;
 }
